@@ -4,7 +4,7 @@ This is a Minecraft Forge mod.
 A mod description can be found on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/auto-restart).  
 This is a combined work only using and not modifying used libraries.
 
-#Ocraftyone Fork
+# Ocraftyone Fork
 
 My fork is tailored for my use case. The empty server time begins immediately when the server starts and there were two commands added: startEmptyTimer and stopEmptyTimer. Both are self-explanatory. All credit goes to [GeheimagentNr1](https://github.com/GeheimagentNr1), I just modified a few lines of code.
 
